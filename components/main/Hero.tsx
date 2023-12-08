@@ -12,7 +12,7 @@ const Hero = () => {
                 loop
                 className='rotate-180 absolute top-[-340px]  left-0 z-[1] w-full h-full object-cover'>
                 <source
-                    src='/public_blackhole.webm'
+                    src='/blackhole.webm'
                     type='video/webm'
                 />
             </video>
